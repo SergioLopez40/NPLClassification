@@ -10,5 +10,5 @@ Este proyecto busca dar a conocer la riqueza de la musica popular colombiana, a 
 ## Consulte los python notebooks de los dos modelos propuestos:
 ### EstadisticasTexto
 [https://colab.research.google.com/drive/18R33dt5N5aLd1R0Jge5uzrXozNXEIbA3?usp=sharing](https://colab.research.google.com/drive/1203Yc9T4KmSGRLVVThdBm5onmGHl0B04?usp=sharing)
-### EstadisticasTexto
+### Tfidf
 [https://colab.research.google.com/drive/18R33dt5N5aLd1R0Jge5uzrXozNXEIbA3?usp=sharing](https://colab.research.google.com/drive/1qW30Ujjn2jnBW4RdiB98UeSHrb6m0e_R?usp=sharing)
