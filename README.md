@@ -1,4 +1,5 @@
-# CLASIFICACION DE GENEROS MUSICALES COLOMBIANOS UTILIZANDO TECNICAS DE PROCESAMIENTO DE LENGUAJE NATURAL
+## CLASIFICACION DE GENEROS MUSICALES COLOMBIANOS UTILIZANDO TECNICAS DE PROCESAMIENTO DE LENGUAJE NATURAL
+Sergio Steven Lopez Martinez - sslopezm@unal.edu.co
 
 ### 
 Este proyecto busca dar a conocer la riqueza de la musica popular colombiana, a través del estudio de 180 piezas musicales pertenecientes a seis de los generos musicales colombianos mas conocidos: Bambuco, Carranga, Cumbia, Joropo, Pasillo, Vallenato. El estudio de estos generos se considera a traves del análisis del contenido de las canciones mediante tecnicas de procesamiento de lenguaje natural y aprendizaje automatico. Presentamos el origen del conjunto de datos, las tareas de preprocesamiento y los modelos propuestos y analizados para la evaluacion posterior de los resultados de la clasificacion.
